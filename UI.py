@@ -3,6 +3,7 @@ from tkinter import *
 from tkinter import ttk
 import Browse
 
+
 #Create an instance of Tkinter frame
 top = Tk()
 
